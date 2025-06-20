@@ -35,18 +35,12 @@ Since this data is confidential, it would not be shared in a report.
 
 ![image](https://github.com/user-attachments/assets/35b5d90a-204a-413a-a037-5352b18288b6)
 
-## Project Insights
-
-* Analyze which hotels are performing well in terms of revenue, occupancy rate, and RevPAR.
-* Identify any trends in guest satisfaction or booking channel performance.
-* Segment guests to understand which demographics are most profitable or loyal.
-* Measure the effectiveness of marketing campaigns and identify areas for improvement.
-
 ## Final Conclusion
 
-* Use the insights from the hotel chain data analysis to make data-driven decisions about resource allocation, marketing strategies, and property management.
-* Focus on improving the performance of underperforming hotels.
-* Develop targeted marketing campaigns to attract different guest segments.
-* Continuously monitor and improve hotel chain performance based on data insights.
+* Weekend stays had 7% higher occupancy and better room rates than weekdays, suggesting a chance to raise prices on weekends.
+* The 'direct online' platform gave the highest revenue efficiency (70.66%), while OTA platforms had lower returns, showing a need to promote direct bookings.
+* Despite high Average Daily Rates (ADR), RevPAR remained low during some weeks, showing a gap between pricing and room usage—pointing to poor inventory utilization.
+* Business and Luxury room categories had almost equal occupancy, meaning marketing can target both segments equally for better reach.
+* A direct link was found between low guest ratings and high cancellation rates, showing the impact of customer experience on revenue loss.
 
 
